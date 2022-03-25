@@ -1,8 +1,32 @@
 {
-    "productName": "Book",
-    "startDate": "",
-    "endDate": "",
-    "campaignType": "",
-    "hubLocation": "",
-    "status": true
+    "list": [
+        {
+            "id": 1,
+            "productName": "Book 1",
+            "startDate": "",
+            "endDate": "",
+            "campaignType": "Customer baru",
+            "hubLocation": "Senayan, Kuningan",
+            "status": true
+        },
+        {
+            "id": 2,
+            "productName": "Book 2",
+            "startDate": "",
+            "endDate": "",
+            "campaignType": "Customer baru",
+            "hubLocation": "Kemang",
+            "status": true
+        },
+        {
+            "id": 3,
+            "productName": "Book 3",
+            "startDate": "",
+            "endDate": "",
+            "campaignType": "Customer baru",
+            "hubLocation": "Kelapa Gading",
+            "status": true
+        }
+    ]
 }
+
